@@ -1,5 +1,5 @@
 <?php
-echo "Welcome to my world"
-echo "<br>;
+echo "Welcome to my world";
+echo "<br>";
 phpinfo();
 ?>
